@@ -75,5 +75,5 @@ This project addresses a real business problem: identifying companies at risk of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ghaliahannachi2-rgb/<bankruptcy-prediction>.git
-   cd <bankruptcy-prediction>
+   git clone https://github.com/ghaliahannachi2-rgb/bankruptcy-prediction.git
+   cd bankruptcy-prediction
